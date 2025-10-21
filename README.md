@@ -60,3 +60,4 @@ It demonstrates how to create a custom app that integrates with Sitecore fields,
 2. How to integrate external APIs with Sitecore forms or fields.
 
 3. How to store and sync external data inside XM Cloud.
+
